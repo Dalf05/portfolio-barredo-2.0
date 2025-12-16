@@ -64,7 +64,7 @@ const PhotoSession = () => {
       {/* Header */}
       <div className="fixed top-0 left-0 right-0 z-40 bg-background/80 backdrop-blur-md border-b border-border/20">
         <div className="container mx-auto px-4 py-4 flex items-center gap-4">
-          <button
+          <button 
             onClick={() => navigate('/')}
             className="p-2 hover:bg-secondary/50 rounded-full transition-colors"
           >

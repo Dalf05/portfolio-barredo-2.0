@@ -7,7 +7,7 @@ const PhotoGallery = () => {
       {/* Photos section title */}
       <div className="text-center mb-12">
         <h3 className="font-display text-4xl md:text-5xl text-foreground text-glow mb-4">
-          FOTOS
+          SESIONES
         </h3>
         <div className="w-16 h-0.5 bg-foreground/50 mx-auto" />
       </div>

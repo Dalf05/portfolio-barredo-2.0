@@ -36,7 +36,7 @@ const HeroSection = () => {
             className="hidden md:block mt-8 text-lg md:text-xl text-muted-foreground font-light max-w-md animate-fade-up"
             style={{ animationDelay: '0.6s', animationFillMode: 'backwards' }}
           >
-            Creando historias visuales que conectan emociones
+            Crea tu propia historia
           </p>
 
           {/* Scroll indicator - hidden on mobile */}
